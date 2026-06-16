@@ -1,0 +1,8 @@
+{
+  "name": "Excavador de Editais e Vestibulares",
+  "description": "Robô inteligente do tipo crawler que escava cronogramas, editais e documentos exigidos nos vestibulares regulares e seriados de SP, RJ e MG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
